@@ -1,4 +1,4 @@
-:target: python coding in HackerRank , a revisit to syntax and cleaner way of learning py started on 01.01.2020 :target:
+:trophy: :dart: python coding in HackerRank , a revisit to syntax and cleaner way of learning py started on 01.01.2020 :dart: :trophy:
 
 | Sl.no | Excercise File  | Link to problem | 
 | ---- | ---- | ---- | 
