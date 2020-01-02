@@ -10,3 +10,5 @@
 | 6 | function.py | [python-function](https://www.hackerrank.com/challenges/write-a-function/problem)|
 | 7 | print.py | [python-print](https://www.hackerrank.com/challenges/python-print/problem)|
 | 8 | lists.py | [python-list](https://www.hackerrank.com/challenges/python-lists/problem)|
+| 9 | tuples.py | [python-tuples](https://www.hackerrank.com/challenges/python-tuples/problem)|
+ 
