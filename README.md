@@ -8,4 +8,4 @@
 | 4 | division.py | [python-division](https://www.hackerrank.com/challenges/python-division/problem)|
 | 5 | loops.py | [python-loops](https://www.hackerrank.com/challenges/python-loops/problem)|
 | 6 | function.py | [python-function](https://www.hackerrank.com/challenges/write-a-function/problem)|
-
+| 7 | print.py | [python-print](https://www.hackerrank.com/challenges/python-print/problem)|
