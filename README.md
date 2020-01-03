@@ -13,4 +13,5 @@
 | 9 | tuples.py | [python-tuples](https://www.hackerrank.com/challenges/python-tuples/problem)|
 | 10| list-comprehension.py| [python-list-comprehension](https://www.hackerrank.com/challenges/list-comprehensions/problem)|
 |
-|11| runner-up-score.py| [runner-up-score](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem)| 
+|11| runner-up-score.py| [runner-up-score](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem)|
+|12| average.py| [calculate-average](https://www.hackerrank.com/challenges/finding-the-percentage/problem)| 
