@@ -15,4 +15,5 @@
 |
 |11| runner-up-score.py| [runner-up-score](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem)|
 |12| average.py| [calculate-average](https://www.hackerrank.com/challenges/finding-the-percentage/problem)|
-| 13 | print-fullname.py| [print-fullname](https://www.hackerrank.com/challenges/whats-your-name/problem)| 
+| 13 | print-fullname.py| [print-fullname](https://www.hackerrank.com/challenges/whats-your-name/problem)|
+|14| swap-case.py| [python-swapcase](https://www.hackerrank.com/challenges/swap-case/problem)| 
