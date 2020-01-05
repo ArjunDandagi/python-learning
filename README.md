@@ -17,3 +17,7 @@
 | 13 | print-fullname.py| [print-fullname](https://www.hackerrank.com/challenges/whats-your-name/problem)|
 |14| swap-case.py| [python-swapcase](https://www.hackerrank.com/challenges/swap-case/problem)|
 |15| string-split-join.py| [string-split-join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem)|
+|16| mutations.py|[python-mutations](https://www.hackerrank.com/challenges/python-mutations/problem)|
+
+
+
