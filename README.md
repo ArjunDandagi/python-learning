@@ -20,6 +20,7 @@
 |16| mutations.py|[python-mutations](https://www.hackerrank.com/challenges/python-mutations/problem)|
 |17| find-a-string.py|[find-a-string](https://www.hackerrank.com/challenges/find-a-string/problem)|
 |18| string-validation.py| [string-validation](https://www.hackerrank.com/challenges/string-validators/problem)|
-
+|19| text-alignment.py| [text-alignment](https://www.hackerrank.com/challenges/text-alignment/problem)|
+|20| text-wrap.py| [text-wrap](https://www.hackerrank.com/challenges/text-wrap/problem)|
 
 
