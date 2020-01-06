@@ -23,4 +23,7 @@
 |19| text-alignment.py| [text-alignment](https://www.hackerrank.com/challenges/text-alignment/problem)|
 |20| text-wrap.py| [text-wrap](https://www.hackerrank.com/challenges/text-wrap/problem)|
 |21| door-mat.py | [design-door-mat](https://www.hackerrank.com/challenges/designer-door-mat/problem)|
+|22| string-formatting.py| [string-formatting](https://www.hackerrank.com/challenges/python-string-formatting/problem)|
+
+
 
