@@ -25,5 +25,5 @@
 |21| door-mat.py | [design-door-mat](https://www.hackerrank.com/challenges/designer-door-mat/problem)|
 |22| string-formatting.py| [string-formatting](https://www.hackerrank.com/challenges/python-string-formatting/problem)|
 |23| capitalize.py|[capitlize-words](https://www.hackerrank.com/challenges/capitalize/problem)|
-
+|24| alphabet-rangoli.py| [alphabet-rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem)|
 
