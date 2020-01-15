@@ -26,4 +26,6 @@
 |22| string-formatting.py| [string-formatting](https://www.hackerrank.com/challenges/python-string-formatting/problem)|
 |23| capitalize.py|[capitlize-words](https://www.hackerrank.com/challenges/capitalize/problem)|
 |24| alphabet-rangoli.py| [alphabet-rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem)|
+|25| the-minion-game.py|[the-minion-game](https://www.hackerrank.com/challenges/the-minion-game/problem) |
+|26| merge-the-tools.py| [merge-the-tools](https://www.hackerrank.com/challenges/merge-the-tools/problem)|
 
